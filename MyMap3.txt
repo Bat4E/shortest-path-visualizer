@@ -1,0 +1,28 @@
+20
+20
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X P P P P P P P P P P P P P P P P P P P P P P P X 
+X P P P P P P P P P P P P P P P P P P P P P P P X 
+X M M M M M M M M M M M M M M M M M M M M M M M X 
+X M M M M M M M M M M M M M M M M M M M M M M M X 
+X F F F F F F F F F F F F F F F F F F F F F F F X 
+X F F F F F F F F F F F F F F F F F F F F F F F X 
+X W W W W W W W W W W W W W W W W W W W W W W W X 
+X W W W W W W W W W W W W W W W W W W W W W W W X  
+X W W W W W W W W W W W W W W W W W W W W W W W X  
+X R R R R R R R R R R R R R R R R R R R R R R R X
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X R R R R R R R R R R R R R R R R R R R R R R R X  
+X X X X X X X X X X X X X X X X X X X X X X X X X   
+

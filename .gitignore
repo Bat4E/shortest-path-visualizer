@@ -1,0 +1,31 @@
+# Ignore build files
+*.exe
+*.obj
+*.pdb
+
+# Ignore Visual Studio folders and user-specific settings
+.vscode/
+*.suo
+*.filters
+*.user
+*.VC.db
+*.opendb
+*.log
+ipch/
+Debug/
+x64/
+Release/
+
+# Optional: Ignore entire FinalProject folder if not source
+# FinalProject/
+
+# Backup or temp files
+*.idb
+*.tlog
+*.cache
+*.ilk
+*.tmp
+
+# Ignore OneDrive and shortcut/link artifacts
+*.lnk
+~$*

@@ -1,0 +1,17 @@
+15
+15
+X X X X X X X X X X X X X X X
+X R F F F F F F F F F F M W X
+X R R F M M M M M M M F W W X
+X F R F F M F M M M F W W F X
+X F R F F F F M M F W W F M X
+X F R R R F F M F W W F M M X
+X M F F R F M M F W F M F F X
+X M M F R F F F W W W W F F X
+X M M F R F P F W W W W F F X
+X M M F R F P F W W W W W F X
+X M F R R F F F F F F F F F X
+X M F R F F F F F F F F F F X
+X M F R R R R R R F F F F F X
+X M M F F F F F R R R R R R X
+X X X X X X X X X X X X X X X
